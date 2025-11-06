@@ -100,7 +100,7 @@ with torch.no_grad():
 accuracy = correct / total
 print("Validation Accuracy:", accuracy)
 ```
-Validation Accuracy: 0.87
+Validation Accuracy: 0.92
 
 After full preprocessing and fine-tuning, the model achieves an average accuracy of 90–95% on the test dataset depending on random seed and preprocessing.
 # Developed by Mohammad Parsa Torabi
